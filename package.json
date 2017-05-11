@@ -1,0 +1,33 @@
+{
+  "name": "jumpsort",
+  "version": "0.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iainreid820/jumpsort.git"
+  },
+  "keywords": [
+    "micro",
+    "queue",
+    "synchronous",
+    "task",
+    "tasks"
+  ],
+  "author": {
+    "name": "Iain Reid",
+    "email": "iainreid382@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/iainreid820/jumpsort/issues"
+  },
+  "homepage": "https://github.com/iainreid820/jumpsort#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  },
+  "license": "MIT"
+}
