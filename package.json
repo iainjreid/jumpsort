@@ -10,13 +10,7 @@
     "type": "git",
     "url": "https://github.com/iainreid820/jumpsort.git"
   },
-  "keywords": [
-    "micro",
-    "queue",
-    "synchronous",
-    "task",
-    "tasks"
-  ],
+  "keywords": [],
   "author": {
     "name": "Iain Reid",
     "email": "iainreid382@gmail.com"
